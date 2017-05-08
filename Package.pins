@@ -1,0 +1,12 @@
+{
+  "autoPin": true,
+  "pins": [
+    {
+      "package": "Nimble",
+      "reason": null,
+      "repositoryURL": "https://github.com/Quick/Nimble",
+      "version": "7.0.0"
+    }
+  ],
+  "version": 1
+}

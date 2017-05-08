@@ -3,5 +3,8 @@
 import PackageDescription
 
 let package = Package(
-    name: "Spec"
+    name: "Spec",
+    dependencies: [
+        .Package(url: "https://github.com/Quick/Nimble", majorVersion: 7)
+    ]
 )
